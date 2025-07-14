@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "markdown-table": "^3.0.4",
+    "mysql2": "^3.14.2"
+  }
+}
